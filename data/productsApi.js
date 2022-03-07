@@ -2,39 +2,39 @@
 let productsList = [
     {   
         id: '1',
-        name: 'procesador intel i7',
-        description: 'procesador de alto rendimiento intel',
+        name: 'Lapicera Bic',
+        description: 'Lapicera azul marca Bic',
         cod: 0,
-        img: 'https://www.trendit.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX80677I77700T_800.jpg',
-        price: 70000,
-        stock: 10
+        img: 'https://alohamaxikiosco.com.ar/wp-content/uploads/2020/07/bic.jpg',
+        price: 70,
+        stock: 100
     },
     {   
         id: '2',
-        name: 'memoria ram 16 GB',
-        description: 'memoria de 16 gb de ram compatible con dual channel',
+        name: 'Marcadores Sharpie',
+        description: 'Marcadores Sharpie x12',
         cod: 0,
-        img: 'https://www.trendit.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX80677I77700T_800.jpg',
-        price: 70000,
-        stock: 10
+        img: 'https://http2.mlstatic.com/D_NQ_NP_711777-MLA44240943968_122020-W.jpg',
+        price: 700,
+        stock: 400
     },
     {   
         id: '3',
-        name: 'disco rigido 2TB',
-        description: 'disco rigido de almacenamiento de 2 tb',
+        name: 'Lapices de Colores',
+        description: 'Lapices de colores ',
         cod: 0,
-        img: 'https://www.trendit.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX80677I77700T_800.jpg',
-        price: 70000,
-        stock: 10
+        img: 'https://d3ugyf2ht6aenh.cloudfront.net/stores/001/261/715/products/lata-fc-final1-fdb335c5ea85348c8b15954203378140-1024-1024.png',
+        price: 1200,
+        stock: 600
     },
     {   
         id: '4',
-        name: 'placa de video Gforce',
-        description: 'placa de video Gforce alto rendimiento',
+        name: 'Mochila Mickey',
+        description: 'Mochila para niño/a de Mickey',
         cod: 0,
-        img: 'https://www.trendit.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX80677I77700T_800.jpg',
-        price: 70000,
-        stock: 10
+        img: 'https://m.media-amazon.com/images/I/81VR4OPuzoL.jpg',
+        price: 1600,
+        stock: 60
     },
     
 ];
